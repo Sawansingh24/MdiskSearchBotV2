@@ -174,7 +174,7 @@ print(f"""
  _____________________________________________   
 |                                             |  
 |          Deployed Successfully              |  
-|              Join @{Config.cw_wins_movie}                 |
+|              Join @{Config.UPDATES_CHANNEL_USERNAME}                 |
 |_____________________________________________|
     """)
 
