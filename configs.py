@@ -12,7 +12,7 @@ class Config(object):
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOH4Buw80zs5SoOUmlwEVUf9V55XcQ3zJAYqsEwvSjnTGiUL40b2qLQh06wNVUxuZIrLnN9FtLAeZ9mwWI7WTlSdInkQa0qwOs57LE18itT4sW2w6VeQPxTxykWSUDaA7o3k9WAvstBR3WpXHa-vckona7mek_b5xpxwCORei6uZ9QuCebqw8VjSrLeMXugkrY1pmbNP-Gc6p6RWo1TgQEJv-ArHlqM7OzhcuK2L38Pkb3PqJeFPuYgVu7Mi9tKqBsD_4RWIy0kAh1uzNORy6M27CSY2E8LGL2chipVndFUcN87K9eMfKZ5vc_CPn3lTK-W1Cjtabjo81wxt_GQK54cQEU3k=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001846372477")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "CW_winsbot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "5628615681 5451785173"))
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "5628615681"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Sawan_singh_24")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cw_wins_movie")
 #    GROUP_USERNAME = os.getenv("CW_movie_request")
@@ -23,7 +23,7 @@ I ᴀᴍ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Rᴏʙᴏᴛ 🔍.
 I Wɪʟʟ Pʀᴏᴠɪᴅᴇ Eᴠᴇʀʏ Mᴏᴠɪᴇ Iɴ Mᴅɪsᴋ Lɪɴᴋ 🔗
 
 Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" ) 
-    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/7d357b72c29a6aa21fb78.jpg")
+    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/50ce896a97e40c0cfde40.jpg")
     HOME_TEXT = os.getenv("HOME_TEXT", """ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
