@@ -9,7 +9,7 @@ class Config(object):
     API_HASH = os.getenv("API_HASH", "1fa838ddfed0caff5fbf871054a4be46")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5868718576:AAFmangITpmzl7qN5WVjK0lGwzvF0BvCNNc")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdisksearchbot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOH4Buw80zs5SoOUmlwEVUf9V55XcQ3zJAYqsEwvSjnTGiUL40b2qLQh06wNVUxuZIrLnN9FtLAeZ9mwWI7WTlSdInkQa0qwOs57LE18itT4sW2w6VeQPxTxykWSUDaA7o3k9WAvstBR3WpXHa-vckona7mek_b5xpxwCORei6uZ9QuCebqw8VjSrLeMXugkrY1pmbNP-Gc6p6RWo1TgQEJv-ArHlqM7OzhcuK2L38Pkb3PqJeFPuYgVu7Mi9tKqBsD_4RWIy0kAh1uzNORy6M27CSY2E8LGL2chipVndFUcN87K9eMfKZ5vc_CPn3lTK-W1Cjtabjo81wxt_GQK54cQEU3k=")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOJABu0hQ1_wKz1W6UljQkooSQydKOFr3KWOO8TrVYIVdh0LX1UldkfAihrXaj-s9jsTFlViGa21xdcqn9pY3mxVS-iSi0Wb-jEm4csnJ7AIXRCPlOwI1fCxUgePuo9999_Y1WyVu2eE4Me-3YvlDxHWp_V48rU4KLz2srNYOmcZlEGxi9qN49DV9RaE7QeIKSOgSFdl7enS2Pzdw3pc1HJiexGJFQIMy1OSXe472bNfDlqyXyEEV5M1NwH6IKQ7KCPIfCnwvdCBFWVVE3gWYbLBDReJfy1ooHfiB9SrUiBGInmXwyjckcyCIgdZ_5icNr7FoU2fW3L7zS40tI1XbcWBRZuY=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001846372477")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "CW_winsbot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5628615681"))
@@ -23,7 +23,7 @@ I ᴀᴍ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Rᴏʙᴏᴛ 🔍.
 I Wɪʟʟ Pʀᴏᴠɪᴅᴇ Eᴠᴇʀʏ Mᴏᴠɪᴇ Iɴ Mᴅɪsᴋ Lɪɴᴋ 🔗
 
 Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" ) 
-    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/50ce896a97e40c0cfde40.jpg")
+    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/47b43b7090ada988e244b.jpg")
     HOME_TEXT = os.getenv("HOME_TEXT", """ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
