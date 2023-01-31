@@ -9,7 +9,7 @@ class Config(object):
     API_HASH = os.getenv("API_HASH", "fa32292b4892fc32b4fe00b6e0e3999d")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5957537468:AAGXC_IJ_2sWqMSCrHkdXIFIQQiZHhE9TpQ")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdisksearchbot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOKkBu2qBJAt-n42KNUUVqpACGdB8DWr-mQFd0yww3iB578zebETgGHns4kaRaqJ_sm5Sx-zxVLk8L24eJtU0va9q7al_CUY6QLJBIh20va132p3ng9rv1cZZkFb4oUzobFIc21CW8mWkxTcONmcM-JRpI9EgImf7bw0ztC-YVffcTmogK0uF6s9dK7uxpINJKG14_H6hAf02I5zsVj18kZG99w7qX-lAKmGQ3m3vceZ8foIuev7LoHwjws62JuF5DKx4O7zPZBa4mAb0ZM-ljCevR8wH5jEl9wGNFFcZMRZSfD7vX8s8D702eqiTf9CK02BzD7bWrhvipIv68j3YnKZd7v4=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001846372477"))
     BOT_USERNAME = os.getenv("BOT_USERNAME", "CW_Movie_Search_bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5628615681"))
