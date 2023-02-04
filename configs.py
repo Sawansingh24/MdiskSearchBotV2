@@ -7,12 +7,12 @@ import os
 class Config(object):
     API_ID = int(os.getenv("API_ID", "20166382"))
     API_HASH = os.getenv("API_HASH", "fa32292b4892fc32b4fe00b6e0e3999d")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5957537468:AAGXC_IJ_2sWqMSCrHkdXIFIQQiZHhE9TpQ")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "5868718576:AAGjG1BQo-WCRaUewGjB5iOAkftWThJFgBI")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdisksearchbot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOKkBuwQyP-TOXJflP5WzX9798ExXs_njb3uszrypVzNkHTR_B2Mb3hMpMp-LbQq36fDUownhDNLiFkCiPLuzvc3cyvH-Nfzhmo2vELwXThmGa8YeiYTZVM7N1fLEjAJPiAJTdww78xdZJe5k0Em_c6hUNF5Ei_qDDTqCXF6YsLvx1QXUYBFpVL9AYqhzSH86K1H22evyah_2fsPvrbA6Lvr5CPILUOaookLGBftNQZhGWX27hGtw_9ePcbKCD87A2Ws7jdgGaqDYIKPRVpomdr4mfqkNXOIseRCghcfFipR0GSHfwft2PFGrsRAMd8eOV5ZRCo1ZygEHdNz0FaqX21u1lB8=")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001846372477"))
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1AZWarzYBuztDq1RlsKM2lZfeobhKspX1bX2IR16w8bgETEGlEuv5WJW2u6Rwk3yUCytf5OSfeI5KKNcIAY27LpK2vV6AnypxjwmB2Ya6C8XwHvBtSJk_---dLQmxrHDa7UJJ7sDefTJUBY6ZvG08eCIoJeYV5MuqbM9lF2WJOFua8fsN6BDN2dPeu13uOjRhNmZUbc1Qlw3NC5OK1AN2wkjcTrN6Vvusx0rWuqY1o3ZO2U1CTF1uN_XkZZsdEaHPI15KgouiVC0AxSTVXuxyTeS48blv2ZWN3BQdYT59P_iAtB2RlwVMlCyIKv5kXc1N9LYqPSdq79VpVMTTpWvrrGEkGxg0hgc=")
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001857096379")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "CW_Movie_Search_bot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "5628615681"))
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "5628615681 1851630156"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Sawan_singh_24")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cw_backup")
 #    GROUP_USERNAME = os.getenv("CW_movie_request")
@@ -23,18 +23,18 @@ I ᴀᴍ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Rᴏʙᴏᴛ 🔍.
 I Wɪʟʟ Pʀᴏᴠɪᴅᴇ Eᴠᴇʀʏ Mᴏᴠɪᴇ Iɴ Mᴅɪsᴋ Lɪɴᴋ 🔗
 
 Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" ) 
-    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/dacecd52422b4ef04ba52.jpg")
+    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/cc602c00232cf7fbe75b8.jpg")
     HOME_TEXT = os.getenv("HOME_TEXT", """ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
 
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
-    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001889508148")
+    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001734460210")
     DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Sawansingh24:Sawansingh24@cluster0.uiuhxxj.mongodb.net/?retryWrites=true&w=majority")
-    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001811438803"))
+    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001815375162"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
-    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "cw_backup")
+    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "cw_wins_movie")
     FORCE_SUB = os.getenv("FORCE_SUB", "False")
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 180))
     MDISK_API = os.getenv("MDISK_API", "Qu7jX9V0Sn3q1JHdxjPp")
